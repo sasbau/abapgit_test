@@ -6,4 +6,4 @@
 REPORT ZSB_HELLO_WORLD.
 
 
-WRITE 'Hello'.
+WRITE 'HI'.
