@@ -6,9 +6,9 @@
 REPORT ZSB_HELLO_WORLD.
 
 
-WRITE 'HI'.
+WRITE 'Hello'.
 
-WRITE 'HI'.
-WRITE 'HI'.
-WRITE 'HI'.
-WRITE 'HI'.
+WRITE 'Hello'.
+WRITE 'Hello'.
+WRITE 'Hello'.
+WRITE 'Hello'.
